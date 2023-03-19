@@ -25,6 +25,8 @@ public class Main {
         System.out.println(sum);
     }
 
+
+
     public static void task2() {
         int[] arr = generateRandomArray();
         int min = Integer.MIN_VALUE;
